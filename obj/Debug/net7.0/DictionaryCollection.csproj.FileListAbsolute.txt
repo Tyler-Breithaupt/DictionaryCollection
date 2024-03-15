@@ -1,0 +1,15 @@
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/bin/Debug/net7.0/DictionaryCollection
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/bin/Debug/net7.0/DictionaryCollection.deps.json
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/bin/Debug/net7.0/DictionaryCollection.runtimeconfig.json
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/bin/Debug/net7.0/DictionaryCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/bin/Debug/net7.0/DictionaryCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.csproj.AssemblyReference.cache
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.AssemblyInfoInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.AssemblyInfo.cs
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.csproj.CoreCompileInputs.cache
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/refint/DictionaryCollection.dll
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.pdb
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/DictionaryCollection.genruntimeconfig.cache
+/Users/tylerbreithaupt/Desktop/CIT195/DictionaryCollection/obj/Debug/net7.0/ref/DictionaryCollection.dll
